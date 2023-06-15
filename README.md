@@ -14,9 +14,7 @@ https://www.youtube.com/watch?v=N0SKqduV6-c
 To get started with Vacation Hacks, please follow these steps:
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/GRight-Hackathon/frontend.git
-   ```
+   
 2. Install the dependencies
    ```sh
    npm install
